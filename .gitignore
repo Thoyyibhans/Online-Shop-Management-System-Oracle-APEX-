@@ -1,0 +1,19 @@
+# Oracle APEX specific
+/apex-export/*
+!/apex-export/online-shop-app.sql
+*.log
+*.zip
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+credentials.json
+config.js
