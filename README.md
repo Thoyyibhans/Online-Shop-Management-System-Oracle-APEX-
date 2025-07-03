@@ -53,18 +53,19 @@ The application follows a standard Oracle APEX architecture, with the APEX engin
 
 **Entity-Relationship Diagram (ERD):**
 
-![ERD Placeholder](docs/ERD.png)
+<img src="https://github.com/Thoyyibhans/Online-Shop-Management-System-Oracle-APEX-/blob/main/osm_erd.png?raw=true" width="400"/>
 
 ## 📸 Sample Screenshots
 
-*Login Page:*
-![Login Placeholder](docs/screenshots/login.png)
+**Login Page:**  
+<img src="https://github.com/Thoyyibhans/Online-Shop-Management-System-Oracle-APEX-/blob/main/osm_login.png?raw=true" width="300"/>
 
-*Admin Dashboard:*
-![Dashboard Placeholder](docs/screenshots/dashboard.png)
+**Admin Dashboard:**  
+<img src="https://github.com/Thoyyibhans/Online-Shop-Management-System-Oracle-APEX-/blob/main/osm_dashboard.png?raw=true" width="700"/>
 
-*Product Page:*
-![Product Page Placeholder](docs/screenshots/product-page.png)
+**Product Page:**  
+<img src="https://github.com/Thoyyibhans/Online-Shop-Management-System-Oracle-APEX-/blob/main/osm_products.png?raw=true" width="700"/>
+
 
 ## 🤝 Contribution Guidelines
 
@@ -76,4 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Credits
 
-This project was created and is maintained by [Thoyyibhans].
+This project was created and is maintained by Thoyyibhans.
